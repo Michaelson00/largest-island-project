@@ -15,8 +15,9 @@ largest-island-project/
 │   ├── multiple_country_island.png
 │   └── top10_tropics.png
 │
-├── README.md
-└── requirements.txt
+├── data_source.txt
+├── requirements.txt
+└── README.md
 
 ## Project Overview
 This project explores global island data to answer analytical questions about island size, ranking, geographic distribution, and geopolitical composition.
