@@ -1,5 +1,6 @@
 # largest-island-project
 ## File Structure
+<pre>
 largest-island-project/
 │
 ├── data/
@@ -18,7 +19,7 @@ largest-island-project/
 ├── data_source.txt
 ├── requirements.txt
 └── README.md
-
+</pre>
 ## Project Overview
 This project explores global island data to answer analytical questions about island size, ranking, geographic distribution, and geopolitical composition.
 The objective was to use data analysis techniques to extract meaningful insights from structured island data.
